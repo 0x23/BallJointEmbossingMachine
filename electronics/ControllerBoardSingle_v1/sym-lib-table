@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ROB-14450")(type "KiCad")(uri "${KIPRJMOD}/libraries/ROB-14450/ROB-14450.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2040-ZERO")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040-ZERO/RP2040-ZERO.kicad_sym")(options "")(descr ""))
+)
